@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">TimeTable Demo</string>
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item>Resources </item>
+        <item>About App </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> Class or Exam Timetable details </item>
+        <item> Subject syllabus details </item>
+        <item> Faculty members contact details </item>
+        <item> Download Urls of all notes </item>
+        <item>Info about this application </item>
+    </string-array>
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>Organisational Behaviour</item>
+        <item>English</item>
+        <item>Operational Research</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>Computer Accounting</item>
+        <item>VC++/Windows Server</item>
+        <item>Adv java/ Network Infrastructure</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>Organisational Behaviour</item>
+        <item>English</item>
+        <item>Operational Research</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>Computer Accounting</item>
+        <item>VC++/Windows Server</item>
+        <item>Adv java/ Network Infrastructure</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item>Organisational Behaviour</item>
+        <item>English</item>
+        <item>Operational Research</item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>Computer Accounting</item>
+        <item>VC++/Windows Server</item>
+        <item>Adv java/ Network Infrastructure</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>11:00AM - 12:00PM</item>
+        <item>12:00PM - 1:00PM</item>
+        <item>1:00PM - 2:00PM</item>
+    </string-array>
+    <string-array name="Subjects">
+        <item>English</item>
+        <item>OB</item>
+        <item>Accounting</item>
+        <item>OperationResearch</item>
+        <item>VC</item>
+        <item>AdvJava</item>
+    </string-array>
+    <string-array name="English">
+        <item>Conept of Communication-Attribites,Process,Feedback; Method of communication-verbal,non-verbal,body language,posture and gesture,eye contact;Paragarph writing-Description of an event or object, Extending ideas on proverbs/maximum,Making a precis</item>
+        <item>Letter Writing-Informal,Formal,Business; Report Writing-Social,Business,official,Newsreport</item>
+        <item>Communicative Grammar- Parts of speech,Model Auxilixary,Tense pattern,Voice Change,Word very often confused</item>
+    </string-array>
+    <string-array name="OB">
+        <item>Nature and scope of OB- concept,feature and types of organisation,organisational goals,individual and Organisational goals; Organisational theory- Taylor scientific theory,Henry fayol process thoery,HR approach behaviour approach, System approach </item>
+        <item>Principles of organisation; Line,Functional,Line and staff, Matrix,Virtual organisations</item>
+        <item>Maslow need hierarchy,Herzberg two factor theory,McClelland need theory leadership; Theories of leadership-Trait,Behaviour,Managerial,Situtional,Fred Fiedler contigency model</item>
+    </string-array>
+    <string-array name="Accounting">
+        <item>Concepts of accounting;Nature,users,accounting concepts,principles; Journals,ledger,Trial balance,Final accounts;Golden rules of Accounting</item>
+        <item>Cost accounting, classifying costs, cost sheet, marginal costing, break even graph budget, budgetary control</item>
+        <item>Auditing: Audit procedure, Internal control, Internal check, Internal audit, Types of audit, computerised audit technique; Computerised accounts,Audit trials,System configuration,Nominal ledgers,Stock Control,payroll,excel package</item>
+    </string-array>
+    <string-array name="OperationResearch">
+        <item>Introduction; Problem formulation and modelling-Problem formulation,measures of performance, modelling in OR, deriving solution, questions of errors, Upaing model</item>
+        <item>Segquential decision-introduction, dynamic programming, optimality function, application of DPP to situation; Sequencing problems including gantt chart;Queuing-definition,queue objects and models,problems, fixed arrival, random variable</item>
+        <item>Simulation-meaning,methods,Monte Carlo method and its application; Decision theory-definition, various models, fators of decision under risk, alternative action plan, narginal analysis, decision trees, posterior analysis,utility function; Investment decision ,Appraisal techniques</item>
+    </string-array>
+    <string-array name="VC">
+        <item>Windows architecture,Anatomy of Windows app, MFC- introduction, class hierarchy, classes;create MFC app, SDI app, app in non-document view</item>
+        <item>Message,Message Mapping system,Message mapping in MFC,MApping modes,Using CDC class and GDI object, writing output to device,drawing graphics and text, introduction to differnt controls</item>
+        <item>Using frame, static control, text control, dropdownlist, creating and using dialog boxes , property sheet,menus, toolbar,status bar; getting and setting values for controls;Introduction to data persistence</item>
+    </string-array>
+    <string-array name="AdvJava">
+        <item>J2EE and its components;Features and drivers of JDBC;query DB by JDBC;using swing components </item>
+        <item>Overview of distributed app; RMI architecture, Creating an app in RMI, Defining stub and skeletons, Servlet: Intro, Lifecycle, Servlet collaboration</item>
+        <item>JSP-architecture; implementing request/response cycle in jsp;types of EJB ;using EJB in app </item>
+    </string-array>
+    <string-array name="title">
+        <item>UnitI</item>
+        <item>UnitII</item>
+        <item>UnitIII</item>
+    </string-array>
+    <string-array name="faculty_name">
+        <item>Suryakant Sahoo(HOD)</item>
+        <item>Deepak kumar Majhi(Teacher)</item>
+        <item>Ahuti Mohanty(Teacher)</item>
+        <item>Pinaki Nayak(Teacher)</item>
+        <item>Chinmay Mishra(Teacher)</item>
+        <item>Ganesha P Behera(Teacher)</item>
+        <item>Mamina Swain(Librarian)</item>
+        <item>LK Nayak(Coordinator)</item>
+        <item>Smruti Ranjan Mohanty(Director)</item>
+        <item>Bapi sir(Staff member)</item>
+    </string-array>
+    <string-array name="Suryakant">
+        <item>8249242406</item>
+        <item>suryakant.sahoo10@gmail.com</item>
+    </string-array>
+    <string-array name="Deepak">
+        <item>8984809002</item>
+        <item>abc@gmail.com</item>
+    </string-array>
+    <string-array name="Ahuti">
+        <item>8249980236</item>
+        <item>def@gmail.com</item>
+    </string-array>
+    <string-array name="Pinaki">
+        <item>8895229838</item>
+        <item>jkl@gmail.com</item>
+    </string-array>
+    <string-array name="Chinmay">
+        <item>8456934299</item>
+        <item>chinmay.mishra84@gmail.com</item>
+    </string-array>
+    <string-array name="Ganesha">
+        <item>9437265566</item>
+        <item>mno@gmail.com</item>
+    </string-array>
+    <string-array name="Mamina">
+        <item>8917452817</item>
+        <item>pqr@gmail.com</item>
+    </string-array>
+    <string-array name="Bapi">
+        <item>8917452817</item>
+        <item>pqr@gmail.com</item>
+    </string-array>
+    <string-array name="Lk">
+        <item>8917409760</item>
+        <item>stu@gmail.com</item>
+    </string-array>
+    <string-array name="Smruti">
+        <item>8895997245</item>
+        <item>nihmt-dacwala@yahoo.com</item>
+    </string-array>
+
+</resources>
